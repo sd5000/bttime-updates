@@ -1,15 +1,15 @@
 {
-  "version": "1.3.3",
+  "version": "1.3.4",
   "notes": "See the assets below to download and install this version.",
-  "pub_date": "2026-05-23T01:58:00.077Z",
+  "pub_date": "2026-05-28T00:25:20.333Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSHdlYmpsQ3ErMWp4a1J3SVFWNFNMY2kxRVhsU2N2R3FwbnU0aXk3blpyTHVwZjVsMVlBRFJqZjZwMXJkazM1ZXdRa0FMR1MwWitQL2RxZXlDQzByVGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTAxNDc2CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKbURIY0NyWmg4YjUvNGpBdEFoZ1p5SkZsZ2l1SnNSdm9qYlp0OExWdUYrdzBOTFJROG5seEEzeVRGYXBlNkgwRUJJUVdscnpUdDA3cDhwajBlN0JSQlE9PQo=",
-      "url": "https://github.com/sd5000/bttime/releases/download/v1.3.3/BTTime_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSDFpS205OVZPTkRGVS9SL1NWOGRQNDc0d3MwS0F3YmNZRjVzYjFFb3BvSHFjdzdacHRKM0RZUUpMTVJ0aVh5N2hsSmdrSUpVV0pNTTRpMm9kK2ZJeFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTI3OTE0CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKOEJTTVBkMUI3cXZjQ2lqNC84UUc5TFFsejZJUzdzcnFRdFVydUF0c21vbVhYN29DbEJGc2dac0J2d2JMeDhIU3RlNWUvelJYeEpNQnJBVFZOTU90QkE9PQo=",
+      "url": "https://github.com/sd5000/bttime/releases/download/v1.3.4/BTTime_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSHdlYmpsQ3ErMWp4a1J3SVFWNFNMY2kxRVhsU2N2R3FwbnU0aXk3blpyTHVwZjVsMVlBRFJqZjZwMXJkazM1ZXdRa0FMR1MwWitQL2RxZXlDQzByVGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTAxNDc2CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKbURIY0NyWmg4YjUvNGpBdEFoZ1p5SkZsZ2l1SnNSdm9qYlp0OExWdUYrdzBOTFJROG5seEEzeVRGYXBlNkgwRUJJUVdscnpUdDA3cDhwajBlN0JSQlE9PQo=",
-      "url": "https://github.com/sd5000/bttime/releases/download/v1.3.3/BTTime_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSDFpS205OVZPTkRGVS9SL1NWOGRQNDc0d3MwS0F3YmNZRjVzYjFFb3BvSHFjdzdacHRKM0RZUUpMTVJ0aVh5N2hsSmdrSUpVV0pNTTRpMm9kK2ZJeFFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTI3OTE0CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKOEJTTVBkMUI3cXZjQ2lqNC84UUc5TFFsejZJUzdzcnFRdFVydUF0c21vbVhYN29DbEJGc2dac0J2d2JMeDhIU3RlNWUvelJYeEpNQnJBVFZOTU90QkE9PQo=",
+      "url": "https://github.com/sd5000/bttime/releases/download/v1.3.4/BTTime_aarch64.app.tar.gz"
     }
   }
 }
