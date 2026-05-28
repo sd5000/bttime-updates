@@ -12,6 +12,7 @@
       "url": "https://github.com/sd5000/bttime/releases/download/v1.3.6/BTTime_aarch64.app.tar.gz"
     },
     "aarch64-apple-darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSHhBaUlDcGFQcmEzeTNobXpOS0tyK2ZuOXY1c0pDU2lIS29FN2cwSGJ1eE9oUWlZckIvTDJ6SHNlM0FQN1BkMHMzd0wyVDgvS2xNUkYwZUpFUEpERFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5OTk1NDUzCWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKalY3L3JjR1Zua0hJaTh1ZGdES0tGVlNCeitBOFZhaFgxSld0OG5TVGdSSXBZVWdYUkorcFNxOUFhdGpZSWQyOGdQZkVXUXJnUDJ3dERlbXVrWURnQ2c9PQo=",
       "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.3.6/BTTime_aarch64.app.tar.gz"
     }
   }
