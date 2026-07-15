@@ -1,19 +1,19 @@
 {
-  "version": "1.4.3",
+  "version": "1.5.0",
   "notes": "See the assets below to download and install this version.",
-  "pub_date": "2026-07-15T03:51:31.669Z",
+  "pub_date": "2026-07-15T17:13:05.385Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSCt1bksvRndPWDAzN1J0Q2pPdC93Y0N0WFdReHhuWnRJNXJJNkpKRnRSd3BOclY4NWszTkVuYnFKYlNnSmFhMFdqbzgwaUh6V0p2WmZUK0E5MnVYZ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDg3NDg3CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKYmZnbGw4WmZteTlWRkswazdrQnNrRHZhTm9VMWxkMWxjRi9wYXQrM1N1MG1POEdoWlhLVnNNZnZGM29GQjVtOEhZamRMRFVTNzk4UVV5ZUg5bHc5QWc9PQo=",
-      "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.4.3/BTTime_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSCthR251YXIxbVFjN0pEcE92M1V3dkx2cU9xVUg5MjQvOWxuUStFS0tId1dBWFdsSmNqcUxyOEVHMTlYSmYxbFNUQytCMU1UMHhuUG5FUFlLT3hWRHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTM1NTc5CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKS1ZTL0lQYkk3KzZJY2NGbWlINHBSMFF1cjh4TmxIeXQrYVNIUzBLVDRKWm5Sc2plVjY5QU9BZUJYaFVIU1hqdmFnSWZVaVllTDd2WjJBcGQyRC9SQVE9PQo=",
+      "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.5.0/BTTime_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSCt1bksvRndPWDAzN1J0Q2pPdC93Y0N0WFdReHhuWnRJNXJJNkpKRnRSd3BOclY4NWszTkVuYnFKYlNnSmFhMFdqbzgwaUh6V0p2WmZUK0E5MnVYZ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDg3NDg3CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKYmZnbGw4WmZteTlWRkswazdrQnNrRHZhTm9VMWxkMWxjRi9wYXQrM1N1MG1POEdoWlhLVnNNZnZGM29GQjVtOEhZamRMRFVTNzk4UVV5ZUg5bHc5QWc9PQo=",
-      "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.4.3/BTTime_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSCthR251YXIxbVFjN0pEcE92M1V3dkx2cU9xVUg5MjQvOWxuUStFS0tId1dBWFdsSmNqcUxyOEVHMTlYSmYxbFNUQytCMU1UMHhuUG5FUFlLT3hWRHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTM1NTc5CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKS1ZTL0lQYkk3KzZJY2NGbWlINHBSMFF1cjh4TmxIeXQrYVNIUzBLVDRKWm5Sc2plVjY5QU9BZUJYaFVIU1hqdmFnSWZVaVllTDd2WjJBcGQyRC9SQVE9PQo=",
+      "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.5.0/BTTime_aarch64.app.tar.gz"
     },
     "aarch64-apple-darwin": {
-      "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.4.3/BTTime_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSCt1bksvRndPWDAzN1J0Q2pPdC93Y0N0WFdReHhuWnRJNXJJNkpKRnRSd3BOclY4NWszTkVuYnFKYlNnSmFhMFdqbzgwaUh6V0p2WmZUK0E5MnVYZ2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDg3NDg3CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKYmZnbGw4WmZteTlWRkswazdrQnNrRHZhTm9VMWxkMWxjRi9wYXQrM1N1MG1POEdoWlhLVnNNZnZGM29GQjVtOEhZamRMRFVTNzk4UVV5ZUg5bHc5QWc9PQo="
+      "url": "https://github.com/sd5000/bttime-updates/releases/download/v1.5.0/BTTime_aarch64.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNG8zMUVwNVVlSCthR251YXIxbVFjN0pEcE92M1V3dkx2cU9xVUg5MjQvOWxuUStFS0tId1dBWFdsSmNqcUxyOEVHMTlYSmYxbFNUQytCMU1UMHhuUG5FUFlLT3hWRHdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTM1NTc5CWZpbGU6QlRUaW1lLmFwcC50YXIuZ3oKS1ZTL0lQYkk3KzZJY2NGbWlINHBSMFF1cjh4TmxIeXQrYVNIUzBLVDRKWm5Sc2plVjY5QU9BZUJYaFVIU1hqdmFnSWZVaVllTDd2WjJBcGQyRC9SQVE9PQo="
     }
   }
 }
